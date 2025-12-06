@@ -26,6 +26,7 @@ in.
 who handled the rental
 
 # Answers
+<a href = https://github.com/Onyinyechukwu5/WTF-SQL-Assignment/blob/main/SQL%20JOIN%20ASSIGNMENT.sql > Answers <a/>
 
 #  What This Assignment Demonstrates
 
