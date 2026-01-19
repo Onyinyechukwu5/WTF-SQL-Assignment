@@ -1,4 +1,4 @@
-# WTF-SQL-Assignment
+# SQL-Assignment - WTF
 
 # SQL JOIN Practice – PostgreSQL
 
